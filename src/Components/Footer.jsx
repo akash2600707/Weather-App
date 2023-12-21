@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../assets/favicon.png";
 function Footer() {
   return (
     <footer className="bg-purple-800 p-1 text-white text-center">
